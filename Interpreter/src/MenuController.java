@@ -10,6 +10,8 @@ import javafx.scene.image.ImageView;
 import javafx.scene.text.TextFlow;
 
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
@@ -27,9 +29,10 @@ public class MenuController
 
 
     @FXML
-    public void Edit(ActionEvent event) throws InterruptedException
+    public void Edit(ActionEvent event) throws InterruptedException, UnsupportedEncodingException
     {
         text = textArea.getText();
+       // text = URLEncoder.encode(text, "UTF-8");
 
         Tabs E1 = new Tabs();
         text = E1.interpret(text);
@@ -43,6 +46,10 @@ public class MenuController
         text = E5.interpret(text);
         Defis E6 = new Defis();
         text = E6.interpret(text);
+        SpaceDefis E7 = new SpaceDefis();
+        text = E7.interpret(text);
+        RightQuots E8 = new RightQuots();
+        text=E8.interpret(text);
         textArea.setText(text);
 
 
