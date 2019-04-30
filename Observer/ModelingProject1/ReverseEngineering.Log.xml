@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2018-03-24T23:14:05" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;1b6b5fc8-9947-45f1-8c5f-6aa899682034&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;a8a3cb82-c810-4834-bb7b-8aba512ccbe2&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;cb0170ec-c5c8-496e-9d3b-c270bc38b74c&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer&quot; -  (Package)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock&quot; -  (Class)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::Clock&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::NotifyObservers&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::observers&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::RegisterObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::RegisterObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::RemoveObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Clock::RemoveObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat&quot; -  (Class)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::clock&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::Dekanat&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::Dekanat::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::NotifyObservers&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::observers&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RegisterObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RegisterObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RegisterTeacher&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RegisterTeacher::t&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RemoveObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::RemoveObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::reports&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::teachers&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::Update&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Dekanat::Update::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department&quot; -  (Class)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department::dekanat&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department::Department&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department::Department::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department::Update&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Department::Update::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable&quot; -  (Interface)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable::NotifyObservers&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable::RegisterObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable::RegisterObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable::RemoveObserver&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObservable::RemoveObserver::o&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObserver&quot; -  (Interface)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObserver::Update&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::IObserver::Update::ob&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Program&quot; -  (Class)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher&quot; -  (Class)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::dknt&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::name&quot; -  (Property)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::Teacher&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::Teacher::d&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::Teacher::name&quot; -  (Parameter)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::ToString&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Observer::Teacher::WriteReport&quot; -  (Operation)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System&quot; -  (Package)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections&quot; -  (Package)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic&quot; -  (Package)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::Dictionary&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::Dictionary&lt;String‎, String‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&lt;IObserver‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&lt;Teacher‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Object&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Observer::Clock в ModelingProject1::Observer::IObservable (InterfaceRealization)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Observer::Dekanat в ModelingProject1::System::Collections::Generic::Dictionary&lt;String‎, String‎&gt; (Association)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Observer::Dekanat в ModelingProject1::Observer::IObservable (InterfaceRealization)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Observer::Dekanat в ModelingProject1::Observer::IObserver (InterfaceRealization)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Observer::Department в ModelingProject1::Observer::IObserver (InterfaceRealization)" />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="High" Text="Полностью реконструировано (7) типов." />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="High" Text="Частично реконструировано (6) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2018-03-24T23:14:18" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>

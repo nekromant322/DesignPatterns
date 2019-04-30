@@ -1,0 +1,7 @@
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\bin\Release\Observer.exe.config
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\bin\Release\Observer.exe
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\bin\Release\Observer.pdb
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\obj\Release\Observer.csprojAssemblyReference.cache
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\obj\Release\Observer.csproj.CoreCompileInputs.cache
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\obj\Release\Observer.exe
+C:\Users\yngvar\Documents\Labs\PIAPS6\Observer\Observer\obj\Release\Observer.pdb
